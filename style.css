@@ -1,0 +1,41 @@
+.container{
+    text-align: center;
+    margin-top: 23px;
+
+}
+table{
+    margin: auto;
+}
+input{
+    font-size: 30px;
+    width: auto;
+    height: 100px;
+    border: 2px solid orange;
+
+}
+button{
+    font-size: 25px;
+    background-color: white;
+    border-style: none;
+     width: 90px;
+     height: 80px;
+
+
+}
+.last{
+    background-color: orange;
+}
+.calculator{
+    display: inline-block;
+    background-color: gainsboro;
+
+}
+
+h1{
+    background-color: orange;
+  width: 500px;
+   padding: 20px;
+    color: white;
+    margin-bottom: 20px;
+    text-align: center;
+}
